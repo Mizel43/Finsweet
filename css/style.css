@@ -494,7 +494,11 @@ html, body {
   .header__time {
     justify-content: center;
   }
-
+  .header__btn{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
   .header__btn-S {
     margin: 10px auto;
     margin-bottom: 0;
